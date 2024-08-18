@@ -17,3 +17,6 @@ class ListFlashCardSerilizer(ModelSerializer):
     class Meta:
         model = FlashCard
         fields = "__all__"
+        
+        
+
